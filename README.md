@@ -4,4 +4,4 @@ Source code included
 
 # Download:
 -----
-# https://github.com/luigi1st/AI-Aimbot-2025/releases/download/v1.0/program.zip
+# https://github.com/luigi1st/AI-Aimbot-2025-For-Fortnite/releases/download/v1.0/program.zip
